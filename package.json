@@ -1,0 +1,27 @@
+{
+  "name": "slack-bot",
+  "version": "1.0.0",
+  "description": "A simple Slack conversational bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/envs/slack-bot.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "slack",
+    "bots"
+  ],
+  "author": "envs",
+  "license": "MIT",
+  "dependencies": {
+    "slackbots": "^1.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
